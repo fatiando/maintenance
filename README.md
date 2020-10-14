@@ -1,4 +1,4 @@
-# Fatiando a Terra Maintenance
+# Tracking maintenance tasks on the entire project
 
 We use this repository to keep track of every maintenance task that might needed on
 more than one repository of the Fatiando a Terra project.
