@@ -1,3 +1,9 @@
+---
+name: Maintenance task
+about: Request a task for several Fatiando repositories
+
+---
+
 **Description**
 
 <!--
