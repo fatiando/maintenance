@@ -24,11 +24,6 @@ Feel free to ask for help. Maintaining a large number of repositories is not
 easy and it's better if we split the work.
 -->
 
-We know that maintenance tasks are very demanding, so we don't expect a single
-person to tackle this issue by themselves. Any help is very welcomed, so please
-comment below that you want to take care of the changes on any repository and
-we will assign it to you.
-
 **Apply changes to**
 
 <!--
@@ -80,3 +75,11 @@ A quick checklist:
    Issue on them.
 3. Check-off the repository on the list above once the Pull Request is merged.
 4. Close this issue when all items are checked-off.
+
+
+**We want your help**
+
+We know that maintenance tasks are very demanding, so we don't expect a single
+person to tackle this issue by themselves. Any help is very welcomed, so please
+comment below that you want to take care of the changes on any repository and
+we will assign it to you.
