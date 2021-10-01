@@ -1,3 +1,9 @@
+# NOTICE
+
+This repository is archived. Content and functionality has been moved to https://github.com/fatiando/community
+
+---
+
 # Tracking maintenance tasks on the entire project
 
 We use this repository to keep track of every maintenance task that might needed on
